@@ -68,3 +68,73 @@ h1, h2, h3, h4, h5, h6{
     font-size: 1em;
     line-height: 1.5em;
 }
+
+.middle-content{
+    padding: 2em;
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+.middle-content-title{
+    font-size: 1.25em;
+    color: #652e79;
+    text-transform: uppercase;
+}
+
+.middle-content p{
+    list-style: 1.5;
+    color: #222;
+}
+
+span img {
+    font-size: 4em;
+    color: #652e79;
+}
+
+.main-content{
+    padding: 2em;
+}
+
+.main-content-article{
+    margin-bottom: 3.5em;
+    line-height: 1.2em;
+}
+
+.main-content-title{
+    font-size: 1.25em;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-weight: normal;
+}
+
+
+.footer{
+    background-color: #25303e;
+    color: #83969f;
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.footer-menu-share{
+    background-color: #303d4c;
+    padding: .5em;
+}
+
+.footer-menu-share ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.footer-menu-share li{
+    display: inline-block;
+    margin: 0 1em;
+}
+
+.footer-menu-share a{
+    font-size: 1.1em;
+    text-decoration: none;
+    color: white;
+}
